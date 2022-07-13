@@ -1,2 +1,3 @@
 # practice
-https://umikaisei.github.io/practice/
+
+[ありがとうkokodesu](https://umikaisei.github.io/practice/)
